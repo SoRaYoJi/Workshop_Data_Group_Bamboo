@@ -4,7 +4,7 @@
 
 โครงการนี้เป็นส่วนหนึ่งของรายวิชา SCI19 3431: Workshop in Data Intelligence and Visualization ซึ่งเป็นการเรียนรู้และฝึกฝนเกี่ยวกับการใช้เทคนิคต่างๆ ในการวิเคราะห์ข้อมูลและการสร้างการแสดงผลข้อมูลที่มีประสิทธิภาพ ในโครงการนี้เราจะใช้เครื่องมือและเทคนิคต่างๆ เช่น Python, Machine Learning, Data Visualization และอื่นๆ เพื่อแก้ปัญหาและสร้างการแสดงผลที่เข้าใจง่ายและมีประสิทธิภาพ
 
-** รายละเอียดโครงการ
+**รายละเอียดโครงการ**
 
 ชื่อรายวิชา: SCI19 3431: Workshop in Data Intelligence and Visualization
 
@@ -14,7 +14,7 @@
 
 มหาวิทยาลัย: มหาวิทยาลัยเทคโนโลยีสุรนารี
 
-** เนื้อหาหลัก
+**เนื้อหาหลัก**
 
 การทำ Data Preprocessing
 
@@ -28,7 +28,7 @@
 
 This project is part of the course SCI19 3431: Workshop in Data Intelligence and Visualization, which focuses on learning and practicing various techniques in data analysis and creating effective data visualizations. In this project, we use tools and techniques such as Python, Machine Learning, Data Visualization, and more to solve problems and present data in a clear and efficient manner.
 
-** Project Details
+**Project Details**
 
 Course Name: SCI19 3431: Workshop in Data Intelligence and Visualization
 
@@ -38,7 +38,7 @@ Faculty: Faculty of Science, Department of Computer Science
 
 University: Suranaree University of Technology
 
-** Key Topics
+**Key Topics**
 
 Data Preprocessing
 
