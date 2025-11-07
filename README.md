@@ -49,3 +49,6 @@ Creating effective Data Visualizations
 Tools used include Pandas, Matplotlib, Seaborn, Scikit-learn, etc.
 
 https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAG3VHzBxnQ%2FWTuIvUkHBML8nTQ1p3A1AA%2Fedit%3Futm_content%3DDAG3VHzBxnQ%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Dsharebutton&h=AT2qHBHALFD5pnxTijcjo-SnlFfNQEWxsYvfLNa-vrdi8QohHOyYGkgVh6wacgT6y-t-rzh6u5UR_jokv88SreTqTrfzCFEwni2o7Y9AFC7JrbNxppFFHSaYyaTbDMgHvdqVkAcbXYO6SsM&s=1
+
+
+https://www.canva.com/design/DAG3_FWgTRw/hmyJnhQMcBBU-MoGmEUW1g/edit?utm_content=DAG3_FWgTRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
