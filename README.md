@@ -14,6 +14,10 @@
 
 มหาวิทยาลัย: มหาวิทยาลัยเทคโนโลยีสุรนารี
 
+
+https://colab.research.google.com/drive/1rxXxmuSYXNWq8TQ_dETLsWDaCKScJG5-#scrollTo=5IeNuBhHjbEc
+
+
 **เนื้อหาหลัก**
 
 การทำ Data Preprocessing
